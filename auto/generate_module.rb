@@ -104,8 +104,8 @@ class UnityModuleGenerator
       },
       update_svn: false,
       boilerplates: {},
-      test_prefix: 'Test',
-      mock_prefix: 'Mock'
+      test_prefix: 'test_',
+      mock_prefix: 'mock_'
     }
   end
 
